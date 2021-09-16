@@ -15,9 +15,9 @@ This simulator allows you to Run 3 different simulations, add new simulation obj
 </br>
 Also you can change global variables "Environment Constraints" like 
 <ul>
-* Gravity vector </li>
-* Air density </li>
-* Fraction coefficient </li>
+<li> Gravity vector </li>
+<li> Air density </li>
+<li> Fraction coefficient </li>
 </ul>
 </br>
 ![GUI](https://user-images.githubusercontent.com/39844467/133611646-5b184453-ed8e-44d2-9d19-594f10a578ab.png)
