@@ -20,5 +20,5 @@ Also you can change global variables "Environment Constraints" like
 <li> Fraction coefficient </li>
 </ul>
 </br>
-![GUI](https://user-images.githubusercontent.com/39844467/133611646-5b184453-ed8e-44d2-9d19-594f10a578ab.png)
-![Environment](https://user-images.githubusercontent.com/39844467/133611783-9f67630e-1e73-4795-a766-96627d4292e6.png)
+![GUI](https://user-images.githubusercontent.com/39844467/133611646-5b184453-ed8e-44d2-9d19-594f10a578ab.png?raw=true)
+![Environment](https://user-images.githubusercontent.com/39844467/133611783-9f67630e-1e73-4795-a766-96627d4292e6.png?raw=true)
