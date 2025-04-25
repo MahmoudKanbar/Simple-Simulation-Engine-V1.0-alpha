@@ -1,3 +1,8 @@
+# Contributors 
+
+[Joshua Ali](https://github.com/JoshuaAli10)</br>
+[Mahmoud Kanbar](https://github.com/MahmoudKanbar)</br>
+
 # Simple Simulation Engine V1.0 alpha
 This simulator allows you to Run 3 different simulations, add new simulation objects and manage settings for each individual object like
 <ul>
